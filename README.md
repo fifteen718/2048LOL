@@ -1,4 +1,4 @@
 # 2048LOL
-Change the original 2048 web game to character 2048 web game, the character is all about LOL.
+> LOL版2048小游戏，Inspired by https://www.imooc.com/learn/76
 
 [Preview](https://fifteen718.github.io/2048LOL/)
